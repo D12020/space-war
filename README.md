@@ -8,4 +8,4 @@ To play, load the game. Press the space bar on the start screen to start playing
 
 ### Screenshots
 ![alt text](https://raw.githubusercontent.com/kowai-monsuta/space-war/master/screenshots/Capture.PNG)
-![alt text](https://raw.githubusercontent.com/kowai-monsuta/space-war-project/master/screenshots/Capture.PNG)
+![alt text](https://raw.githubusercontent.com/kowai-monsuta/space-war/master/screenshots/Capture2.PNG)
